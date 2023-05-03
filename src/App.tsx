@@ -82,11 +82,12 @@ function App() {
   return (
     <div
       style={{
-        backgroundImage: "url(./public/img/background.jpg)",
+        backgroundImage: "url(/public/img/background.jpg)",
         backgroundSize: "cover",
         backgroundRepeat: "no-repeat",
         backgroundPosition: "center",
       }}
+      className="container__Principal"
     >
       <h1 className="text-black font-extrabold text-3xl p-5 rounded-b-3xl bg-sky-300 mx-auto max-w-2xl">
         ¡Consulta la frase de tu día!

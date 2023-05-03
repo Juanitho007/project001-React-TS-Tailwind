@@ -11,6 +11,9 @@
   margin: 0 auto;
   padding: 0;
 }
+.container__Principal {
+background-image: url('/public/img/background.jpg');
+}
   .loader{
     display: block;
     position: relative;
