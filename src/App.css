@@ -11,8 +11,8 @@
   margin: 0 auto;
   padding: 0;
 }
-.container__Principal {
-background-image: url('/public/img/background.jpg');
+.body {
+background-image: url('/img/background.jpg');
 }
   .loader{
     display: block;
