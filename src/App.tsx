@@ -80,15 +80,7 @@ function App() {
   };
 
   return (
-    <div
-      style={{
-        backgroundImage: "url(/public/img/background.jpg)",
-        backgroundSize: "cover",
-        backgroundRepeat: "no-repeat",
-        backgroundPosition: "center",
-      }}
-      className="container__Principal"
-    >
+    <div className="bg-gradient-to-r from-cyan-100 to-sky-500">
       <h1 className="text-black font-extrabold text-3xl p-5 rounded-b-3xl bg-sky-300 mx-auto max-w-2xl">
         ¡Consulta la frase de tu día!
       </h1>
@@ -118,7 +110,7 @@ function App() {
           font="font-fre"
         />
       </section>
-      <Footer/> 
+      <Footer />
     </div>
   );
 }
