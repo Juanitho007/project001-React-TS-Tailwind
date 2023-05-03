@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "imgUrl": "/img/famous/famous1.jpg",
+    "shadow": "inset 0px 0px 50px 30px #DE3163",
+    "color": "#DE3163"
+  },
+  {
+    "id": 2,
+    "imgUrl": "/img/famous/famous2.jpg",
+    "shadow": "inset 0px 0px 50px 30px #85929E",
+    "color": "#85929E"
+  },
+  {
+    "id": 3,
+    "imgUrl": "/img/famous/famous3.jpg",
+    "shadow": "inset 0px 0px 50px 30px #F5B041",
+    "color": "#F5B041 "
+  },
+  {
+    "id": 4,
+    "imgUrl": "/img/famous/famous4.jpg",
+    "shadow": "inset 0px 0px 50px 30px #F5B069",
+    "color": "#F5B069"
+  },
+  {
+    "id": 5,
+    "imgUrl": "/img/famous/famous5.jpg",
+    "shadow": "inset 0px 0px 50px 30px #99a9bc",
+    "color": "#99a9bc"
+  },
+  {
+    "id": 6,
+    "imgUrl": "/img/famous/famous6.jpg",
+    "shadow": "inset 0px 0px 50px 30px #99a9cc",
+    "color": "#99a9cc"
+  },
+  {
+    "id": 6,
+    "imgUrl": "/img/famous/famous7.jpg",
+    "shadow": "inset 0px 0px 50px 30px #95b7fc",
+    "color": "#95b7fc"
+  },
+  {
+    "id": 6,
+    "imgUrl": "/img/famous/famous8.jpg",
+    "shadow": "inset 0px 0,px150px 71px #229954",
+    "color": "#229954"
+  }
+]
