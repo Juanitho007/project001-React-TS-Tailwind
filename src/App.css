@@ -13,7 +13,7 @@
   padding: 0;
 }
 .body {
-  background-image: url("/img/background.jpg");
+  background-image: url("/public/img/background.jpg");
 }
 .loader {
   display: block;
