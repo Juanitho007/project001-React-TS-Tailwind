@@ -92,6 +92,7 @@ function App() {
           title="INFOGALAX"
           changePhrase={handleClickSpace}
           font="font-dig"
+          size="18px"
         />
         <Card
           imageUrl={cachedImageUrlsFamous[imageFamous]}
@@ -100,6 +101,7 @@ function App() {
           title="FRASES CÉLEBRES"
           changePhrase={handleClickFamous}
           font="font-maho"
+          size="28px"
         />
         <Card
           imageUrl={cachedImageUrlsFortune[imageFortune]}
@@ -108,6 +110,7 @@ function App() {
           title="GALLETAS DE LA FORTUNA"
           changePhrase={handleClickFortune}
           font="font-fre"
+          size="28px"
         />
       </section>
       <Footer />
