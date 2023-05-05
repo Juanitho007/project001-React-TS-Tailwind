@@ -2,49 +2,49 @@
   {
     "id": 1,
     "imgUrl": "img/fortune/fortune1.jpg",
-    "shadow": "inset 0px 0px 50px 30px #1aa204",
+    "shadow": "inset 0px 0px 50px 50px #1aa204",
     "color": "#1ac204"
   },
   {
     "id": 2,
     "imgUrl": "img/fortune/fortune2.png",
-    "shadow": "inset 0px 0px 50px 30px #f7f79e",
-    "color": "#f7f79e"
+    "shadow": "inset 0px 0px 50px 50px #faf1a4",
+    "color": "#faf1a4"
   },
   {
     "id": 3,
     "imgUrl": "img/fortune/fortune3.png",
-    "shadow": "inset 0px 0px 50px 30px #faaff9",
+    "shadow": "inset 0px 0px 50px 50px #faaff9",
     "color": "#faaff9"
   },
   {
     "id": 4,
     "imgUrl": "img/fortune/fortune4.jpg",
-    "shadow": "inset 0px 0px 50px 30px #afcefa",
-    "color": "#afcefa"
+    "shadow": "inset 0px 0px 50px 50px #a1baf1",
+    "color": "#a1baf1"
   },
   {
     "id": 5,
     "imgUrl": "img/fortune/fortune5.jpg",
-    "shadow": "inset 0px 0px 50px 30px #ffb200",
+    "shadow": "inset 0px 0px 50px 50px #ffb200",
     "color": "#ffb200"
   },
   {
     "id": 6,
     "imgUrl": "img/fortune/fortune6.jpg",
-    "shadow": "inset 0px 0px 50px 30px #f536db",
+    "shadow": "inset 0px 0px 50px 50px #f536db",
     "color": "#f536db"
   },
   {
     "id": 7,
     "imgUrl": "img/fortune/fortune7.png",
-    "shadow": "inset 0px 0px 50px 30px #95b7fc",
+    "shadow": "inset 0px 0px 50px 50px #95b7fc",
     "color": "#95b7fc"
   },
   {
     "id": 8,
     "imgUrl": "img/fortune/fortune8.png",
-    "shadow": "inset 0px 0px 50px 30px #b3ffe9",
+    "shadow": "inset 0px 0px 50px 50px #b3ffe9",
     "color": "#b3ffe9"
   }
 ]

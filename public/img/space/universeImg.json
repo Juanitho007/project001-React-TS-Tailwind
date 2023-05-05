@@ -2,49 +2,49 @@
   {
     "id": 1,
     "imgUrl": "/img/space/universe1.jpg",
-    "shadow": "inset 0px 0px 50px 30px #00dafc",
-    "color": "#00dafc"
+    "shadow": "inset 0px 0px 50px 50px #0faafc",
+    "color": "#0faafc"
   },
   {
     "id": 2,
     "imgUrl": "/img/space/universe2.jpg",
-    "shadow": "inset 0px 0px 50px 30px #cf0f0f",
+    "shadow": "inset 0px 0px 50px 50px #cf0f0f",
     "color": "#cf0f0f"
   },
   {
     "id": 3,
     "imgUrl": "/img/space/universe3.jpg",
-    "shadow": "inset 0px 0px 50px 30px #00329f",
+    "shadow": "inset 0px 0px 50px 50px #00329f",
     "color": "#00329f"
   },
   {
     "id": 4,
     "imgUrl": "/img/space/universe4.jpg",
-    "shadow": "inset 0px 0px 50px 30px #7a009f",
+    "shadow": "inset 0px 0px 50px 50px #7a009f",
     "color": "#7a009f"
   },
   {
     "id": 5,
     "imgUrl": "/img/space/universe5.jpg",
-    "shadow": "inset 0px 0px 50px 30px #ffd900",
-    "color": "#ffd900"
+    "shadow": "inset 0px 0px 50px 50px #ffa900",
+    "color": "#ffa900"
   },
   {
     "id": 6,
     "imgUrl": "/img/space/universe6.jpg",
-    "shadow": "inset 0px 0px 50px 30px #ff2f00",
+    "shadow": "inset 0px 0px 50px 50px #ff2f00",
     "color": "#ff2f00"
   },
   {
     "id": 7,
     "imgUrl": "/img/space/universe7.jpg",
-    "shadow": "inset 0px 0px 50px 30px #0088ff",
+    "shadow": "inset 0px 0px 50px 50px #0088ff",
     "color": "#0088ff"
   },
   {
     "id": 8,
     "imgUrl": "/img/space/universe8.jpg",
-    "shadow": "inset 0px 0,px150px 71px #4c61d6",
+    "shadow": "inset 0px 0px 50px 50px #4c61d6",
     "color": "#4c61d6"
   }
 ]

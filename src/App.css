@@ -33,7 +33,6 @@
   animation: 3s ease-in-out infinite;
   -webkit-animation: ballbns 3s ease-in-out infinite;
 }
-
 @keyframes ballbns {
   0% {
     left: 0;
