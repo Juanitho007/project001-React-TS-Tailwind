@@ -81,10 +81,10 @@ function App() {
 
   return (
     <div className="bg-gradient-to-r from-cyan-100 to-sky-500">
-      <h1 className="text-black font-extrabold text-3xl p-5 rounded-b-3xl bg-sky-300 mx-auto max-w-2xl font-maho">
+      <h1 className="text-black font-extrabold text-3xl p-5 rounded-b-3xl bg-sky-300 mx-auto sm:w-[640px] font-maho ">
         ¡Consulta la frase de tu día!
       </h1>
-      <section className="flex flex-col gap-10 mx-auto max-w-2xl text-white justify-center h-full py-10">
+      <section className="flex flex-col gap-10 mx-auto w-full sm:w-[640px]  text-white justify-center h-full py-10">
         <Card
           imageUrl={cachedImageUrlsSpace[imageSpace]}
           phraseRandom={spacePhrase[phraseSpace]}

@@ -23,9 +23,9 @@ const Card =({
 
   return (
     <div
-      className={`flex flex-col justify-between items-center text-center gap-5 px-5 rounded-tr-[18%] rounded-bl-[18%] opacity-60 hover:opacity-100 bg-cover bg-center bg-no-repeat min-h-[500px] ${font}`}
+      className={`flex flex-col justify-between items-center text-center gap-5 px-5 rounded-tr-[18%] rounded-bl-[18%] sm:opacity-80 hover:opacity-100 bg-cover bg-center bg-no-repeat min-h-[500px] ${font} shadow-box sm:hover:scale-125`}
       style={{
-        backgroundImage: `url(${imageUrl})`,
+        backgroundImage: `url(${imageUrl})` ,
       }}
     >
       <h1
